@@ -24,10 +24,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/page-about~b6397c29.d691dc90.css"
   },
   {
-    "revision": "80b6476c6a3a96e21d1f02e79c498ea7",
-    "url": "data-wajah.json"
-  },
-  {
     "revision": "a0fc6c24d1f3ff9ac281887c92b24acd",
     "url": "fastclick.min.js"
   },
