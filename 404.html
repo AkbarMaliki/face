@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My App</title>
+  <script>
+    // ========================================
+    // Credits:
+    // - https://stackoverflow.com/a/50259501
+    // - https://stackoverflow.com/a/50247140
+    // ========================================
+    const segment = 1
+    console.log(location.pathname);
+    sessionStorage.redirect = location.pathname
+    location.replace(window.location.origin)
+  </script>
+</head>
+
+</html>
