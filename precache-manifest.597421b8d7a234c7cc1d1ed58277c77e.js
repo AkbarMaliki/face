@@ -4,44 +4,56 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "404.html"
   },
   {
-    "revision": "d4914cf41196f959921c",
+    "revision": "f19cb57507512117816d",
     "url": "css/app~d0ae3f07.0e433876.css"
   },
   {
-    "revision": "5b0993172aa99fcb36c1",
-    "url": "css/page-index~31ecd969.87778e1f.css"
+    "revision": "de83415a23292795c1b2",
+    "url": "css/page-index~ba2602be.87778e1f.css"
+  },
+  {
+    "revision": "d557b02a8ad5e01a2b7a",
+    "url": "css/page-ktc~af9646b1.87778e1f.css"
   },
   {
     "revision": "956abc59524946e0b3af0f153550540f",
     "url": "img/icons/android-chrome-192x192.png"
   },
   {
-    "revision": "a00e07fe82547d6ae6c0503f06a48b7f",
+    "revision": "ab97c6d9dc77b955440613bbaf33691b",
     "url": "index.html"
   },
   {
-    "revision": "d4914cf41196f959921c",
-    "url": "js/app~d0ae3f07.08406c75.js"
+    "revision": "f19cb57507512117816d",
+    "url": "js/app~d0ae3f07.fede9a8b.js"
   },
   {
     "revision": "f36c0c390f3fb69dccc4",
     "url": "js/chunk-2d0e17d2.e5be458c.js"
   },
   {
-    "revision": "5aaba5a01414649d8d7c",
-    "url": "js/chunk-vendors~d939e436.bcca76eb.js"
+    "revision": "fc245673aaabe5a7765f",
+    "url": "js/chunk-vendors~d939e436.0423b45c.js"
   },
   {
     "revision": "b2ed455c00d171ba1e42",
     "url": "js/chunk-vendors~daa565d3.fa408697.js"
   },
   {
-    "revision": "5b0993172aa99fcb36c1",
-    "url": "js/page-index~31ecd969.80809efd.js"
+    "revision": "de83415a23292795c1b2",
+    "url": "js/page-index~ba2602be.c262b449.js"
   },
   {
-    "revision": "37be7f9141e2d7a0c0d5",
-    "url": "js/page-index~88d7667b.809a03f0.js"
+    "revision": "954999ce4c6c34fd1991",
+    "url": "js/page-index~page-ktc~253ae210.25f1f957.js"
+  },
+  {
+    "revision": "25e6f97d06442b385556",
+    "url": "js/page-index~page-ktc~88d7667b.868bc950.js"
+  },
+  {
+    "revision": "d557b02a8ad5e01a2b7a",
+    "url": "js/page-ktc~af9646b1.80f77d9a.js"
   },
   {
     "revision": "47047fee26557b55d985952bdfc6cba1",
